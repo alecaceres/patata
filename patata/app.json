@@ -1,0 +1,16 @@
+{
+  "expo": {
+   "name": "Testing Potato",
+   "icon": "./android/app/537930-middle.png",
+   "version": "1.0.0",
+   "slug": "ale-potato-testing",
+   "ios": {
+     "bundleIdentifier": "ale.caceres.testing",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "ale.caceres.testing",
+     "versionCode": 1
+   }
+  }
+}
